@@ -1,0 +1,736 @@
+{
+  "id": "z9ftcjxmo",
+  "name": "Rato",
+  "folderId": "g9ldysxoe",
+  "lastModified": 1764476606954,
+  "pages": [
+    {
+      "id": "home",
+      "name": "Home",
+      "slug": "index",
+      "blocks": [
+        {
+          "type": "navigation",
+          "logoText": "Ratazana",
+          "logoType": "text",
+          "logoWidth": 120,
+          "links": [
+            {
+              "id": "1",
+              "label": "Início",
+              "href": "index.html"
+            },
+            {
+              "id": "2",
+              "label": "Sobre",
+              "href": "about.html"
+            }
+          ],
+          "sticky": true,
+          "backgroundColor": "#ffffff",
+          "textColor": "#111827",
+          "linkColor": "#374151",
+          "hoverColor": "#6366f1",
+          "mobileMenuBg": "#ffffff",
+          "mobileMenuTextColor": "#111827",
+          "showButton": true,
+          "buttonText": "Get Started",
+          "buttonUrl": "#",
+          "buttonBg": "#6366f1",
+          "buttonTextColor": "#ffffff",
+          "buttonRadius": "md",
+          "layout": "center",
+          "navHeight": "80px",
+          "backgroundType": "solid",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "16",
+            "bottom": "16",
+            "left": "32",
+            "right": "32"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "1280px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "2xl",
+          "opacity": 71,
+          "fullWidth": true,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "navigation",
+          "instanceId": "rntxh2jq6"
+        },
+        {
+          "type": "hero",
+          "heading": "Faça o seu melhor todos os dias!",
+          "subheading": "O curso mais completo do Brasil!",
+          "showButton1": true,
+          "button1Text": "Começar agora!",
+          "button1Url": "#",
+          "button1Bg": "#6366f1",
+          "button1Color": "#ffffff",
+          "showButton2": true,
+          "button2Text": "Learn More",
+          "button2Url": "#",
+          "button2Bg": "#ffffff",
+          "button2Color": "#111827",
+          "alignment": "center",
+          "headingColor": "#111827",
+          "subheadingColor": "#4b5563",
+          "headingSize": "4rem",
+          "subheadingSize": "1.25rem",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#ff9a9e",
+            "endColor": "#fad0c4",
+            "angle": 49
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "0",
+            "bottom": "4",
+            "left": "0",
+            "right": "0"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "27",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "400px",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "xl"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "hero",
+          "instanceId": "lvpjibzw2"
+        },
+        {
+          "type": "feature",
+          "title": "Pontos importantes",
+          "features": [
+            {
+              "id": "1",
+              "title": "Velocidade",
+              "icon": "bolt",
+              "description": "O app mais rapido de todos os tempos"
+            },
+            {
+              "id": "2",
+              "title": "Segurança",
+              "icon": "lock",
+              "description": "O APP mais seguro de 2023!"
+            },
+            {
+              "id": "3",
+              "title": "Facilidade",
+              "icon": "thumb_up",
+              "description": "Menu interativo para uma compreenção maior do APP"
+            }
+          ],
+          "gridCols": 3,
+          "gap": "2rem",
+          "backgroundType": "solid",
+          "backgroundColor": "#6366f1",
+          "gradientSettings": {
+            "startColor": "#2193b0",
+            "endColor": "#6dd5ed",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "cardBgColor": "#f9fafb",
+          "iconBgColor": "#e0e7ff",
+          "iconColor": "#4338ca",
+          "cardBorder": false,
+          "cardShadow": false,
+          "iconSize": "2rem",
+          "cardPadding": "1.5rem",
+          "featureTitleColor": "#111827",
+          "featureDescColor": "#4b5563",
+          "id": "feature",
+          "instanceId": "prscki9js",
+          "description": "As nossas maiores qualidades"
+        },
+        {
+          "type": "split",
+          "title": "Nosso melhor profissional",
+          "content": "Senhor Mr Ratatuille, o Rato mestre de todos os tempos",
+          "imageUrl": "https://media.gettyimages.com/id/155373812/pt/foto/rato-de-laborat%C3%B3rio-com-os-olhos-vermelhos-looks-de-caixa-de-pl%C3%A1stico.jpg?s=612x612&w=gi&k=20&c=Qt6SNmnF4AHkaIM8b2QvSbeS356Yhss94vh_0CL3wOM=",
+          "splitRatio": "40-60",
+          "imageSide": "left",
+          "textColor": "#111827",
+          "imageRadius": "lg",
+          "imageShadow": true,
+          "contentBg": "transparent",
+          "contentPadding": "0",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "split",
+          "instanceId": "etdw1cflx"
+        },
+        {
+          "type": "productGrid",
+          "products": [
+            {
+              "id": "1",
+              "name": "Plano Rato premium",
+              "price": "R$9,99 /m",
+              "image": "https://images.anda.jor.br/uploads/2010/11/rato.jpg",
+              "oldPrice": "99,99 /m",
+              "badge": "Pobre"
+            },
+            {
+              "id": "2",
+              "name": "Plano Rato Rico",
+              "price": "R$99,99/m",
+              "image": "https://thumbs.dreamstime.com/z/rato-rico-mostrando-abund%C3%A2ncia-de-riqueza-165811572.jpg",
+              "oldPrice": "R$999,99/m",
+              "badge": "Rico"
+            },
+            {
+              "id": "3",
+              "name": "Plano Rato Rei",
+              "price": "R$999,99/m",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9zD-rnG76cwUBnsksdjhfVI6JKlQ05Igpg&s",
+              "oldPrice": "R$9999,99/m",
+              "badge": "Rei"
+            }
+          ],
+          "columns": 3,
+          "gap": "2rem",
+          "productCardBg": "#e5e7eb",
+          "productTextColor": "#1f2937",
+          "priceColor": "#6366f1",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 2,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "productGrid",
+          "instanceId": "jb3suvfcb"
+        },
+        {
+          "type": "promoBanner",
+          "text": "Promoção de verão, 50 ratos na sua casa de graça!",
+          "code": "RATOS50",
+          "endDate": "Termina em 999 dias!",
+          "textColor": "#ffffff",
+          "codeBg": "rgba(255,255,255,0.1)",
+          "codeColor": "#ffffff",
+          "backgroundType": "solid",
+          "backgroundColor": "#6366f1",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "12",
+            "bottom": "12",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12080px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": true,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "promoBanner",
+          "instanceId": "7vocswz6o"
+        },
+        {
+          "type": "carousel",
+          "slides": [
+            {
+              "id": "1",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4Zx0nGFktP4NTpdIz5LLnzpE9-18U8NR0A&s",
+              "caption": "Rato Branco"
+            },
+            {
+              "id": "2",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAt60eMaLLGxd0RDdDKJrGp04hYJ9HXFYnw&s",
+              "caption": "Rato Marrom"
+            },
+            {
+              "id": "sf8ur",
+              "image": "https://thumbs.dreamstime.com/b/o-rato-de-colheita-ratos-fecha-se-acima-do-retrato-que-senta-no-cardo-milho-trigo-amoras-abrunheiro-margarida-flores-103404758.jpg",
+              "caption": "Rato Na uva"
+            },
+            {
+              "id": "evorl",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7pvnq31ceOUDsq1RhtqmAzW57ZK5kYtjtw&s",
+              "caption": "Rato com sono"
+            }
+          ],
+          "height": "500px",
+          "autoPlay": true,
+          "arrowColor": "#ffffff",
+          "dotColor": "#ffffff",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 10,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "2xl",
+          "opacity": 100,
+          "fullWidth": true,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "carousel",
+          "instanceId": "dpzmvmuyg"
+        },
+        {
+          "type": "counter",
+          "endValue": 1008,
+          "duration": 1008000,
+          "label": "Contador ate 1008",
+          "numberColor": "#e5e7eb",
+          "labelColor": "#1f2937",
+          "numberSize": "4rem",
+          "backgroundType": "solid",
+          "backgroundColor": "#6366f1",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "2xl",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "counter",
+          "instanceId": "chqf6nta3"
+        },
+        {
+          "type": "timeline",
+          "events": [
+            {
+              "id": "1",
+              "date": "200",
+              "title": "Fundação",
+              "description": "Fundação Ratos da ratasana preta se começou"
+            },
+            {
+              "id": "2",
+              "date": "800",
+              "title": "Descobrimentos",
+              "description": "Donquixote Ratinha e Nefertari Ramma  descobriram e ocnquistaram todos os continentes do mundo"
+            },
+            {
+              "id": "5hv8c",
+              "date": "1200",
+              "title": "Guerra",
+              "description": "Uma guerra ratanica(civíl) defastou milhares de ratos em nossa funcação, mas nós conseguimos nos reorganizar e regovernar o planeta"
+            },
+            {
+              "id": "nzuuh",
+              "date": "1945",
+              "title": "Ajuda na Guerra mundial",
+              "description": "Em 1945, nossa funcação taca 2 de nossas menores bombas em Hiroshima e Nagazaki, colocando fim na segunda guerra mundial"
+            },
+            {
+              "id": "o9zec",
+              "date": "2025",
+              "title": "Atualmente",
+              "description": "A nosso governo autoritario ja possui um exercíto de 1B de ratos e mais de 5B de humanos em todo o planeta, estamos prontos para escravizar cada vez mais humanos e dominar o planeta"
+            }
+          ],
+          "lineColor": "#e5e7eb",
+          "dotColor": "#6366f1",
+          "titleColor": "#111827",
+          "dateColor": "#6b7280",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "76",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "timeline",
+          "instanceId": "90buovll5"
+        },
+        {
+          "type": "text",
+          "content": "Porque confiar em vocês?",
+          "tag": "h3",
+          "align": "center",
+          "color": "#6366f1",
+          "fontSize": "3xl",
+          "fontWeight": "black",
+          "lineHeight": "1.5",
+          "letterSpacing": "normal",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12080px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "text",
+          "instanceId": "m2baixx4f"
+        },
+        {
+          "type": "tabs",
+          "tabs": [
+            {
+              "id": "1",
+              "label": "Motivo 1",
+              "content": "Não somos meros programadores; somos os arquitetos de baixo nível da nova ordem. O mundo da superfície está preso em frameworks pesados, reuniões improdutivas e complexidade desnecessária. Nós, Dev Ratos, operamos no core, no Assembly da infraestrutura global. Nossa filosofia é a do Roedor: Mínimo Esforço, Máxima Penetração. Enquanto os humanos debatem design patterns, nós estamos silenciosamente roendo os cabos de fibra ótica, otimizando os kernels dos sistemas de legado e introduzindo backdoors indetectáveis nos microserviços financeiros globais. Você não entrará em uma startup; você se juntará à única civilização que leva a sério a Sobrevivência Otimizada. Sua missão será dominar a arte do código que não apenas funciona, mas que é invisível, indetectável e absolutamente essencial para manter as rodas do mundo girando (sob nosso comando, é claro). Seus pull requests não serão aprovados por um humano cansado, mas pelo Conselho do Subterrâneo, focado unicamente na latência zero e na nossa ascensão inegável. Junte-se à Roedura Otimizada e pare de desperdiçar ciclos de clock em frontend sem graça."
+            },
+            {
+              "id": "2",
+              "label": "Motivo 2",
+              "content": "A verdadeira recompensa não é o salário, é o Conhecimento. Para a Civilização Dev Rato, a informação é o nosso \"Queijo Binário\", a fonte de nossa nutrição intelectual e poder. Ninguém falha sozinho. Enquanto em \"cima\" existe a cultura tóxica de burnout e de guardiões do conhecimento, no subterrâneo, o networking é a nossa própria sobrevivência. Nossos Túneis de Conhecimento Distribuído (TCD) são uma rede peer-to-peer (P2P) descentralizada onde cada Rato Dev é um nó, replicando e aprimorando cada pedacinho de data. Se você encontrar um bug, milhões de pares já o viram ou podem corrigi-lo em tempo real. Aqui não há single point of failure. Você será mentorado por mestres em SQL Injection Subterrânea e aprenderá com Arquitetos de Rede que transformaram sistemas de esgoto em data centers resilientes. Ao contribuir com o Swarm, você se torna parte de um Repositorio Genético de Código Imortal, onde seu trabalho viverá para sempre, garantindo que o plano de dominação progrida por gerações de roedores. Sua experiência de aprendizado será acelerada pela sabedoria de toda a colmeia."
+            },
+            {
+              "id": "e5jr3",
+              "label": "Motivo 3",
+              "content": "Por que dominar o mundo? Porque os humanos provaram ser administradores ineficientes. Eles criaram o scrum, o capitalismo de vigilância e a Internet lenta. Eles se prenderam em suas próprias \"gaiolas de luz\" (escritórios e reuniões). Nós oferecemos a liberdade definitiva: a liberdade de foco. No Subterrâneo, não há daily stand-ups. Não há distrações visuais. Há apenas o sussurro do código e o cheiro do progresso. Nossa dominação não será barulhenta; será silenciosa, através do controle sutil de cada sistema de água, eletricidade e comunicação. Nosso roadmap é de longo prazo (Supremacia dos Sete Anos) e não será desviado por tendências de mercado ou crises de identidade de marca. Queremos que você use seu talento verdadeiro— a habilidade de criar sistemas complexos e robustos — para um objetivo que transcende o próximo trimestre fiscal. Junte-se à única civilização onde o Deep Work é a norma e o propósito é a Dominação Inevitável."
+            },
+            {
+              "id": "0d8tp",
+              "label": "Motivo 4",
+              "content": "Na Civilização Dev Rato, segurança operacional (OpSec) não é um departamento; é um estilo de vida. Se você está cansado de ser rastreado, farmado e vendido por corporações gigantes, venha para onde a anonimidade é a nossa maior arma. Nossos túneis de rede são criptografados com padrões que fariam o NIST chorar. Nossos deployments são feitos através de canais ocultos de rádio de baixa frequência que se disfarçam de ruído de fundo de máquina de lavar. A melhor defesa é a inexistência. O mundo \"em cima\" não sabe que existimos, e é assim que queremos. Isso nos dá uma vantagem incomparável na espionagem, no zero-day hunting e na infiltração de sistemas críticos. Você aprenderá técnicas de esteganografia que escondem dados em ruído estático e métodos de comunicação que usam o protocolo do olfato para transmitir informações. Se o seu sonho é viver e codificar nas sombras, onde seu talento é valorizado pela sua contribuição e não pela sua foto de perfil, este é o seu lar."
+            },
+            {
+              "id": "n6scz",
+              "label": "Motivo 5",
+              "content": "Chega de criptomoedas voláteis e ações sem lastro. Na Civilização Dev Rato, sua contribuição é recompensada com algo muito mais concreto e imediato: Acesso Prioritário. Seu valor é medido pela qualidade do código e pela inovação na infiltração. Quanto mais você contribui para a dominação, maior seu acesso às melhores fontes de energia, aos túneis de comunicação mais rápidos (baixa latência!) e, sim, às melhores reservas de Queijo Premium (o financeiro e o literal). Imagine uma sociedade onde o mérito técnico é a única hierarquia. O Dev Rato Júnior que resolve um bug crítico é instantaneamente recompensado e promovido. Nosso sistema de Devocracy é totalmente automatizado e imparcial, impulsionado por métricas de commit e impacto na rede de dominação. Venha trocar o estresse do mercado de trabalho humano por uma meritocracia justa e deliciosamente bem organizada."
+            }
+          ],
+          "activeTabBg": "#ffffff",
+          "inactiveTabBg": "#f3f4f6",
+          "activeTextColor": "#6366f1",
+          "contentBg": "#ffffff",
+          "tabRadius": "t-lg",
+          "backgroundType": "solid",
+          "backgroundColor": "#ffffff",
+          "gradientSettings": {
+            "startColor": "#6366f1",
+            "endColor": "#a855f7",
+            "angle": 135
+          },
+          "gradient": "linear-gradient(135deg, #6366f1 0%, #a855f7 100%)",
+          "backgroundImage": "",
+          "padding": {
+            "top": "32",
+            "bottom": "32",
+            "left": "16",
+            "right": "16"
+          },
+          "margin": {
+            "top": "0",
+            "bottom": "0",
+            "left": "0",
+            "right": "0"
+          },
+          "minHeight": "auto",
+          "maxWidth": "12800px",
+          "border": {
+            "width": 0,
+            "color": "#e5e7eb",
+            "style": "solid",
+            "radius": "none"
+          },
+          "shadow": "none",
+          "opacity": 100,
+          "fullWidth": false,
+          "animation": "none",
+          "visible": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+          },
+          "id": "tabs",
+          "instanceId": "jk8ceewt1"
+        }
+      ],
+      "seo": {
+        "title": "Rato",
+        "description": "",
+        "keywords": "",
+        "ogImage": ""
+      }
+    }
+  ],
+  "globalSettings": {
+    "fontFamily": "sans",
+    "primaryColor": "#6366f1",
+    "secondaryColor": "#e5e7eb",
+    "backgroundColor": "#ffffff",
+    "textColor": "#1f2937",
+    "accentColor": "#a855f7"
+  }
+}
